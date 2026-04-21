@@ -1,5 +1,5 @@
 class Octocat:
-    def __init__(self, name):
+    def __init__(self, name, *breeds):
         self.name = name
         self.breeds = breeds
 
