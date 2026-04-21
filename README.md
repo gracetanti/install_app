@@ -1,3 +1,3 @@
 # install_app
 
-test
+test pufferfish app
