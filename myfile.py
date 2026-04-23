@@ -6,6 +6,7 @@ class Octocat:
 
     def display(self):
         breed = "-".join(self.breeds)
+        unused_variable = "this will trigger a linter warning"
         print(f"I am of {breed} breed, and my name is {self.name}.")
 
 m = Octocat("Mona", ["cat", "octopus"])
